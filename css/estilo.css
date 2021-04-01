@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap');
+
+
+*{
+    margin: 0 auto;
+    padding: 0 ;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.pagina1{
+    background-image: url(https://wallpaperaccess.com/full/630751.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+
+}
+
+.grpm{
+    background-image: url(http://gazetadobairro.com.br/wp-content/uploads/2018/02/suelen-2-target.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+
+ #menuh{
+    list-style-type: none;
+    padding: 0;
+    background-color: rgb(14, 13, 13);
+}
+#menuh ul li {
+    
+    display: inline;
+}
+#menuh ul li a {
+    color: darkgrey;
+    padding: 20px;
+    font-size: 20px;
+    display: inline-block;
+    text-decoration: none;
+    transition: background .4s;
+    
+}
+#menuh ul li a:hover{ 
+    background-color:rgb(252, 252, 252);
+    color: darkmagenta;
+    font-size: 30px;
+}
+#gruposm{
+    background-color: grey;
+    color:white; 
+    font-size:20px;
+    border: 2px solid black;
+    margin: 5px;
+    padding: 10px;
+    text-align: match-parent; 
+}
+
+#bts{
+    background-color: grey;
+    color:white; 
+    font-size:20px;
+    border: 2px solid black;
+    margin: 5px;
+    padding: 10px;
+    text-align: left;   
+}
+
+.bts1{
+    padding: 20px;
+    margin: 20px
+}
+
+#exos{
+    background-color: grey;
+    color:white; 
+    font-size:20px;
+    border: 2px solid black;
+    margin: 5px;
+    padding: 10px;
+    text-align: match-parent; 
+}
+
+#toopg{
+    background-color: grey;
+    color:white; 
+    font-size:20px;
+    border: 2px solid black;
+    margin: 5px;
+    padding: 10px;
+    text-align: match-parent; 
+}
+
+#btob{
+    background-color: grey;
+    color:white; 
+    font-size:20px;
+    border: 2px solid black;
+    margin: 5px;
+    padding: 10px;
+    text-align: match-parent; 
+}
+
+#exo{
+    background-color: grey;
+    color: black; 
+    font-size: 12px;
+    border: 2px solid black;
+    margin: 20px;
+}
+
+#exo{
+    color: black; 
+    font-size: 12px;
+    border: 2px solid black;
+    margin: 20px;
+}
+
+#exo{
+    color: black; 
+    font-size: 12px;
+    border: 2px solid black;
+    margin: 20px;
+}
+
+#exo{
+    color: black; 
+    font-size: 12px;
+    border: 2px solid black;
+    margin: 20px;
+}
